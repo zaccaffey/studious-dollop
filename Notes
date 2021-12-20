@@ -1,0 +1,2 @@
+1. Maybe try to block all HTTP requests from the browser? This may eliminate any non-static functionality of the site
+2. Block any HTTP request that isnt routed from the site itself. i.e PUSH requests from Ads
